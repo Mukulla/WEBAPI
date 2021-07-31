@@ -20,7 +20,7 @@ namespace Le001
             Console.Read();
         }
 
-        static async void Execute()
+        static void Execute()
         {
             for ( int i = 4; i < 14; ++i )
             {
